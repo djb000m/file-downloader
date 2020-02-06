@@ -6,7 +6,7 @@ The script is a little raw. It needs a better menu, the code needs improving and
 
 Having said all that, it works. To horrendously misquote Ordell Robbie in [Jackie Brown](https://www.imdb.com/title/tt0119396/?ref_=fn_al_tt_1):
 
-> "When you absolutely, positively got to _download_ every motherfucker on the page, accept no substitutes."
+> "When you absolutely, positively got to _download_ every motherfucker on the page, accept no substitutes. :grin:"
 
 ## Install
 
