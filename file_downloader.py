@@ -2,8 +2,8 @@
 
 # TODO: Improve the menu? BASIC MENU ADDED for missing options.
 # TODO: Warn if attempting to blindly download filetypes which are likely to be large/potentially harmful - e.g. applications
-# TODO: Add a --list option to just list out the matching links and not download them.
-# Maybe include file sizes? Maybe offer an option to go ahead and download them?
+# ? TODO: Add a --list option to just list out the matching links and not download them.
+# ? Maybe include file sizes? Maybe offer an option to go ahead and download them?
 # TODO: break out the download code into its own function that can be called from extension and content-type functions
 
 import os
