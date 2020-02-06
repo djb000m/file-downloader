@@ -2,7 +2,7 @@
 
 A little tool to download all files of a specified type from a supplied url.
 
-The script is a little raw. It needs a better menu, the code needs improving and, at this point, there aren't any saftey checks - there is a possibility that you start downloading a ridiculous amount of large files without prior warning.
+The script is a little raw; it needs a better menu, the code needs improving and, at this point, there aren't any safety checks - there is a possibility that you start downloading a ridiculous amount of large files without prior warning.
 
 Having said all that, it works. To horrendously misquote Ordell Robbie in [Jackie Brown](https://www.imdb.com/title/tt0119396/?ref_=fn_al_tt_1):
 
@@ -23,7 +23,7 @@ Having said all that, it works. To horrendously misquote Ordell Robbie in [Jacki
 
 ```
 
-3. Activate the virtual environment and Use pip to install the script:
+3. Activate the virtual environment and use pip to install the script:
 
 ```
   cd {script_directory}
